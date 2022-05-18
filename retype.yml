@@ -1,6 +1,6 @@
 input: .
 cache.busting.strategy: none
-url: http://aave.cryptoblocks.gr
+url: http://celo.cryptoblocks.gr
 cname: false
 favicon: Images/Brand/Logo.png
 
